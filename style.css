@@ -24,6 +24,10 @@ main {
   background-color: #EEEEEE;
 }
 
+.content:last-child {
+  margin-right: 0;
+}
+
 .img1{
   height: 150px;
   background-image: url(img/flow01.png);
